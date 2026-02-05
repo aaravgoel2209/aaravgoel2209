@@ -1,4 +1,3 @@
-
 # 💫 About Me:
 🤝 I’m looking to collaborate on<br>Beginner-friendly ML projects, paper reimplementations, and open-source tools where learning-by-building is the goal.<br><br>🫱 I’m looking for help with<br>Understanding ML theory deeply (not just making models run) and improving project structure and research-style code.<br><br>🌱 I’m currently learning<br>Machine Learning fundamentals, Transformers, PyTorch, and how systems actually work under the hood (Linux, tooling, editors).<br><br>💬 Ask me about<br>Python, getting started with ML, reimplementing papers as a student, Linux setups, or why Neovim users won’t shut up.<br><br>⚡ Fun fact<br>I’d rather reimplement a model from scratch than use a one-line library call—pain is a good teacher.
 
@@ -24,3 +23,5 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=aaravgoel2209&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

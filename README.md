@@ -1,4 +1,4 @@
-# 💫 Aarav Goel - The master of ML
+# Hi! I'm Aarav!
 
 🤝 **I’m looking to collaborate on**  
 Beginner-friendly ML projects, paper reimplementations, and open-source tools where learning-by-building is the goal.

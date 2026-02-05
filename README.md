@@ -17,8 +17,7 @@ I’d rather reimplement a model from scratch than use a one-line library call�
 
 
 ## 🌐 Socials:
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@AaravGoel-l7d) 
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aaravgoel.work@gmail.com) 
+[![YouTube]("https://img.shields.io/badge/-Youtube-FF0000?style=for-the-badge&logoColor=white&logo=youtube&labelColor=CC0000)](https://youtube.com/@@AaravGoel-l7d) 
 [![blog](https://img.shields.io/badge/-Blog-blue?style=for-the-badge&logo=hashnode&logoColor=white&labelColor=1049)](https://aaravgoel2209.hashnode.dev)
 
 

@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm YOUR_NAME.</h1>
+<h1 align="center">Hi, I'm Aarav.</h1>
 
 <p align="center">
   <img src="banner.png" alt="banner" width="100%" />
@@ -12,9 +12,9 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=blueviolet&label=VIEWS" />
-  <img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=flat-square" />
-  <img src="https://img.shields.io/github/stars/YOUR_USERNAME?affiliations=OWNER&style=flat-square&label=Repo%20stars" />
+  <img src="https://komarev.com/ghpvc/?username=aaravgoel2209&style=flat-square&color=blueviolet&label=VIEWS" />
+  <img src="https://img.shields.io/github/followers/aaravgoel2209?label=Followers&style=flat-square" />
+  <img src="https://img.shields.io/github/stars/aaravgoel2209?affiliations=OWNER&style=flat-square&label=Repo%20stars" />
 </p>
 
 ---
@@ -41,21 +41,29 @@ Student developer with interests in software engineering, systems, and computer 
 <h3>Social &amp; Contact</h3>
 
 <p>
-  <a href="YOUR_WEBSITE"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=firefox&logoColor=white" /></a>
-  <a href="YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="YOUR_TWITTER"><img src="https://img.shields.io/badge/Twitter-111111?style=for-the-badge&logo=x&logoColor=white" /></a>
-  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="YOUR_WEBSITE">
+    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=firefox&logoColor=white" />
+  </a>
+  <a href="YOUR_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="YOUR_TWITTER">
+    <img src="https://img.shields.io/badge/Twitter-111111?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+  <a href="mailto:YOUR_EMAIL">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 </td>
 <td width="40%" valign="top" align="center">
 
 <p>
-  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaravgoel2209&theme=tokyonight&hide_border=true" />
 </p>
 
 <p>
-  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true" />
+  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=aaravgoel2209&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true" />
 </p>
 
 </td>
@@ -89,13 +97,13 @@ Student developer with interests in software engineering, systems, and computer 
 <table width="100%">
 <tr>
 <td align="center">
-  <a href="https://github.com/YOUR_USERNAME/REPO_1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=REPO_1&theme=tokyonight" />
+  <a href="https://github.com/aaravgoel2209/REPO_1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=aaravgoel2209&repo=REPO_1&theme=tokyonight" />
   </a>
 </td>
 <td align="center">
-  <a href="https://github.com/YOUR_USERNAME/REPO_2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=REPO_2&theme=tokyonight" />
+  <a href="https://github.com/aaravgoel2209/REPO_2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=aaravgoel2209&repo=REPO_2&theme=tokyonight" />
   </a>
 </td>
 </tr>
@@ -106,12 +114,13 @@ Student developer with interests in software engineering, systems, and computer 
 <h2>Activity</h2>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/snake-output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/aaravgoel2209/aaravgoel2209/main/snake-output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=aaravgoel2209&theme=tokyonight&no-frame=true&column=6" />
 </p>
+
 

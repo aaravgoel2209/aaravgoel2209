@@ -10,7 +10,10 @@
   </a> 😄
 </p>
 
-Check out my blog if you're interested [here](https://aaravgoel2209.hashnode.dev).
+<p align="center">
+  Check out my blog if you're interested
+  <a href="https://aaravgoel2209.hashnode.dev">here</a>.
+</p>
 
 <h2>Things I Use or Enjoy:</h2>
 <h3 align="center">Tools</h3>

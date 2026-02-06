@@ -21,5 +21,8 @@ Check out my blog if you're interested [here](https://aaravgoel2209.hashnode.dev
   </a>
 </p>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical)
+<h2 align="center">✍️ Random Dev Quote</h2>
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</p>

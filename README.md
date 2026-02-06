@@ -20,3 +20,6 @@ Check out my blog if you're interested [here](https://aaravgoel2209.hashnode.dev
     <img src="https://skillicons.dev/icons?i=astro,fastapi,go,opencv,py,r,sklearn,tensorflow&perline=4" />
   </a>
 </p>
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical)

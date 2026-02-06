@@ -9,14 +9,14 @@ Check out my blog if you're interested [here](https://www.aaravgoel2209.hashnode
 <h2>Things I Use or Enjoy:</h2>
 <h3 align="center">Tools</h3>
 <p align="center">
-  <a href="https://github.com/zenoix/walnut-environment" target="_blank" rel="noopener noreferrer">
+  <a href="https://github.com/aaravgoel2209/aaravgoel2209" target="_blank" rel="noopener noreferrer">
     <img src="https://skillicons.dev/icons?i=azure,docker,git,github,githubactions,neovim,nix,ubuntu&perline=4" />
   </a>
 </p>
 
 <h3 align="center">Languages and Libraries</h3>
 <p align="center">
-  <a href="https://github.com/zenoix/walnut-environment" target="_blank" rel="noopener noreferrer">
+  <a href="https://github.com/aaravgoel2209/aaravgoel2209" target="_blank" rel="noopener noreferrer">
     <img src="https://skillicons.dev/icons?i=astro,fastapi,go,opencv,py,r,sklearn,tensorflow&perline=4" />
   </a>
 </p>

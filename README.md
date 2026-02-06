@@ -10,14 +10,14 @@ Check out my blog if you're interested [here](https://aaravgoel2209.hashnode.dev
 <h3 align="center">Tools</h3>
 <p align="center">
   <a href="https://github.com/aaravgoel2209/aaravgoel2209" target="_blank" rel="noopener noreferrer">
-    <img src="https://skillicons.dev/icons?i=azure,docker,git,github,githubactions,neovim,nix,ubuntu&perline=4" />
+    <img src="https://skillicons.dev/icons?i=azure,docker,git,github,githubactions,neovim,stackoverflow,ubuntu&perline=4" />
   </a>
 </p>
 
 <h3 align="center">Languages and Libraries</h3>
 <p align="center">
   <a href="https://github.com/aaravgoel2209/aaravgoel2209" target="_blank" rel="noopener noreferrer">
-    <img src="https://skillicons.dev/icons?i=astro,fastapi,go,opencv,py,r,sklearn,tensorflow&perline=4" />
+    <img src="https://skillicons.dev/icons?i=pytorch,fastapi,matlab,opencv,py,r,sklearn,tensorflow&perline=4" />
   </a>
 </p>
 

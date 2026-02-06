@@ -4,7 +4,7 @@
 
 I'm Aarav — a data scientist and a self-proclaimed "knowledge fiend" from Auckland, New Zealand. I have a strong interest in the fields of machine learning and devops. Don't be surprised if you catch me tinkering with my <a href="https://github.com/aaravgoel2209aaravgoel2209" target="_blank" rel="noopener noreferrer">profile readme</a> :smile:.
 
-Check out my blog if you're interested [here](https://www.aaravgoel2209.hashnode.dev).
+Check out my blog if you're interested [here](https://aaravgoel2209.hashnode.dev).
 
 <h2>Things I Use or Enjoy:</h2>
 <h3 align="center">Tools</h3>

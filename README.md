@@ -38,4 +38,15 @@
 
 
 <!--START_SECTION:waka-->
+
+```txt
+From: 31 January 2026 - To: 06 February 2026
+
+Total Time: 40 mins
+
+Python     19 mins         ██████████▒░░░░░░░░░░░░░░   41.39 %
+Markdown   8 mins          ████▓░░░░░░░░░░░░░░░░░░░░   18.12 %
+Other      7 mins          ████░░░░░░░░░░░░░░░░░░░░░   15.38 %
+```
+
 <!--END_SECTION:waka-->

@@ -2,6 +2,8 @@
 
 <h2>Hello and Welcome! 👋</h2>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aaravgoel2209&label=Profile%20views&color=0e75b6&style=flat" alt="aaravgoel2209" /> 
+
 <p align="center">
   I'm Aarav — I work mostly in Python, trying to understand data and machine learning a little better every day. From India.
   Don’t be surprised if you catch me tinkering with my

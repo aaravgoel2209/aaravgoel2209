@@ -1,4 +1,4 @@
-<img id="banner" src="https://raw.githubusercontent.com/aaravgoel2209/aaravgoel2209/master/banner.gif" draggable="false">
+<img id="banner" src="https://raw.githubusercontent.com/aaravgoel2209/aaravgoel2209/master/AE202CD0-0BF5-40A0-AE00-6B6AE828835D.png" draggable="false">
 
 <h2>Hello and Welcome! 👋</h2>
 

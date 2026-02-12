@@ -16,7 +16,7 @@
   <a href="https://aaravgoel2209.hashnode.dev">here</a>.
 </p>
 
-<!-- <h2>Things I Use or Enjoy:</h2> -->
+<h2></h2> 
 <h3 align="center">Tools</h3>
 <p align="center">
   <a href="https://github.com/aaravgoel2209/aaravgoel2209" target="_blank" rel="noopener noreferrer">

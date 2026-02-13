@@ -1,4 +1,5 @@
-<h1> Hi There! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"
+<h2> Hi There! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" </h2>
+
 
 <img id="banner" src="https://raw.githubusercontent.com/aaravgoel2209/aaravgoel2209/master/AE202CD0-0BF5-40A0-AE00-6B6AE828835D.png" draggable="false">
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=aaravgoel2209&label=Profile%20views&color=0e75b6&style=flat" alt="aaravgoel2209" /> 

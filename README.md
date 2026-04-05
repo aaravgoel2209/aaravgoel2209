@@ -39,13 +39,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 27 March 2026 - To: 03 April 2026
+From: 28 March 2026 - To: 04 April 2026
 
-Total Time: 8 hrs 50 mins
+Total Time: 7 hrs 46 mins
 
-HTML               5 hrs 24 mins         █████████████▒░░░░░░░░░░░   53.72 %
-CSS                3 hrs 5 mins          ███████▓░░░░░░░░░░░░░░░░░   30.68 %
-Other              1 hr 13 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.22 %
+HTML               5 hrs 10 mins         ██████████████▒░░░░░░░░░░   57.45 %
+CSS                1 hr 48 mins          █████░░░░░░░░░░░░░░░░░░░░   20.08 %
+Other              1 hr 13 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.68 %
 ```
 
 <!--END_SECTION:waka-->

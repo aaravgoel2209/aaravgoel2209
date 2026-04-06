@@ -1,8 +1,10 @@
 <h1 align="center">Hi, I'm Aarav.</h1>
 
+<p align="center"><i>Python Enthusiast | Data & Machine Learning Explorer | India 🇮🇳</i></p>
+
 <img id="banner" src="https://raw.githubusercontent.com/aaravgoel2209/aaravgoel2209/master/F16CBC91-06B0-41BF-85C7-046C0BFCB140.png" draggable="false">
 
-<p align="center">
+<!-- <p align="center">
   I work mostly in Python, trying to understand data and machine learning a little better every day. From India.
   Don’t be surprised if you catch me tinkering with my
   <a href="https://github.com/aaravgoel2209/aaravgoel2209.github.io" target="_blank" rel="noopener noreferrer">
@@ -13,7 +15,7 @@
 <p align="center">
   Check out my blog if you're interested
   <a href="https://aaravgoel2209.hashnode.dev">here</a>.
-</p>
+</p> -->
 
 <h2></h2>
 <h3 align="center">Tools</h3>

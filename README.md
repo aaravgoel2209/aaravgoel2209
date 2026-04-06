@@ -37,6 +37,15 @@
 </p>
 
 <h2></h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/WakaTime-Stats-blue?style=for-the-badge&logo=wakatime&logoColor=white" />
+</p>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+
 <!--START_SECTION:waka-->
 
 ```txt

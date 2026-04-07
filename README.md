@@ -2,7 +2,7 @@
 
 <p align="center"><i>Python Enthusiast | Data & Machine Learning Explorer | India 🇮🇳</i></p>
 
-<img id="banner" src="https://raw.githubusercontent.com/aaravgoel2209/aaravgoel2209/master/F16CBC91-06B0-41BF-85C7-046C0BFCB140.png" draggable="false">
+<img id="banner" src="https://raw.githubusercontent.com/aaravgoel2209/aaravgoel2209/master/AE202CD0-0BF5-40A0-AE00-6B6AE828835D.png" draggable="false">
 
 <!-- <p align="center">
   I work mostly in Python, trying to understand data and machine learning a little better every day. From India.

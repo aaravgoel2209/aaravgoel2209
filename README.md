@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Aarav.</h1>
 
-<p align="center"><i>Python Enthusiast | Data & Machine Learning Explorer | India 🇮🇳</i></p>
+<p align="center"><i>Python Enthusiast | Data & Machine Learning Explorer | Learning Web Dev</i></p>
 
 <img id="banner" src="https://raw.githubusercontent.com/aaravgoel2209/aaravgoel2209/master/AE202CD0-0BF5-40A0-AE00-6B6AE828835D.png" draggable="false">
 

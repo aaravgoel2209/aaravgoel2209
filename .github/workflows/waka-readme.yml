@@ -5,7 +5,7 @@ on:
   workflow_dispatch:
   schedule:
     # runs at 12 AM UTC (5:30 AM IST)
-    - cron: "0 0 * * *"
+    - cron: "0 16 * * *"
 
 jobs:
   update-readme:
@@ -25,7 +25,7 @@ jobs:
           # BLOCKS: # optional
           # CODE_LANG: # optional
           TIME_RANGE: all_time # optional
-          LANG_COUNT: 20 # optional - Increase this if you want to show more languages
+          LANG_COUNT: 10 # optional - Increase this if you want to show more languages
           SHOW_TIME: true # optional
           SHOW_TOTAL: true # optional
           SHOW_MASKED_TIME: false # optional

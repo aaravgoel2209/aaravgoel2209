@@ -12,7 +12,7 @@ jobs:
     name: WakaReadme DevMetrics
     runs-on: ubuntu-latest
     steps:
-        # this action name
+      # this action name
       - uses: athul/waka-readme@master # do NOT replace with anything else
         with:
           GH_TOKEN: ${{ secrets.GH_TOKEN }} # optional if on profile readme
@@ -25,11 +25,11 @@ jobs:
           # BLOCKS: # optional
           # CODE_LANG: # optional
           TIME_RANGE: all_time # optional
-          LANG_COUNT: 10 # optional
+          LANG_COUNT: 20 # optional - Increase this if you want to show more languages
           SHOW_TIME: true # optional
           SHOW_TOTAL: true # optional
           SHOW_MASKED_TIME: false # optional
-          STOP_AT_OTHER: true # optional
+          STOP_AT_OTHER: false # Change this to false to include all languages
           IGNORED_LANGUAGES: YAML JSON TOML # optional
           ### commit
           COMMIT_MESSAGE: Updated waka-readme graph with new metrics # optional

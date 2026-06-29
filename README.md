@@ -47,7 +47,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 31 January 2026 - To: 27 June 2026
+From: 31 January 2026 - To: 28 June 2026
 
 Total Time: 45 hrs 17 mins
 

@@ -47,15 +47,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 31 January 2026 - To: 03 July 2026
+From: 31 January 2026 - To: 04 July 2026
 
-Total Time: 48 hrs 29 mins
+Total Time: 56 hrs 44 mins
 
-HTML               14 hrs 16 mins        ██████▒░░░░░░░░░░░░░░░░░░   25.03 %
-Python             8 hrs 35 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.07 %
-C++                8 hrs 32 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.97 %
-Other              8 hrs 32 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.97 %
-JavaScript         5 hrs 57 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.43 %
+C++                16 hrs 46 mins        ██████▒░░░░░░░░░░░░░░░░░░   25.70 %
+HTML               14 hrs 16 mins        █████▒░░░░░░░░░░░░░░░░░░░   21.86 %
+Python             8 hrs 35 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.16 %
+Other              8 hrs 32 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.09 %
+JavaScript         5 hrs 57 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.12 %
 ```
 
 <!--END_SECTION:waka-->

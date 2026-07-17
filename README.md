@@ -1,48 +1,34 @@
-<h1 align="center">Hi, I'm Aarav.</h1>
+## Hi, I'm Aarav 👋
 
-<p align="center"><i>Python Enthusiast | Data & Machine Learning Explorer | Learning Web Dev</i></p>
+![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-<img id="banner" src="https://raw.githubusercontent.com/aaravgoel2209/aaravgoel2209/master/AE202CD0-0BF5-40A0-AE00-6B6AE828835D.png" draggable="false">
+##
 
-<!-- <p align="center">
-  I work mostly in Python, trying to understand data and machine learning a little better every day. From India.
-  Don’t be surprised if you catch me tinkering with my
-  <a href="https://github.com/aaravgoel2209/aaravgoel2209.github.io" target="_blank" rel="noopener noreferrer">
-    portfolio website
-  </a> 😄
-</p>
+I'm a student passionate about **Machine Learning, Artificial Intelligence, and Robotics**. I'm currently learning the fundamentals of ML while building my skills in Python, C++, and software development. I enjoy solving challenging problems, creating useful projects, and continuously learning new technologies.
 
-<p align="center">
-  Check out my blog if you're interested
-  <a href="https://aaravgoel2209.hashnode.dev">here</a>.
-</p> -->
+## Tech Stack
 
-<h2></h2>
-<h3 align="center">Tools</h3>
-<p align="center">
-  <a href="https://github.com/aaravgoel2209/aaravgoel2209" target="_blank" rel="noopener noreferrer">
-    <img src="https://skillicons.dev/icons?i=azure,docker,git,github,githubactions,neovim,stackoverflow,ubuntu&perline=4" />
-  </a>
-</p>
+### Languages
+- **Python**, **C++**, **Java**, **SQL**
 
-<h3 align="center">Languages and Libraries</h3>
-<p align="center">
-  <a href="https://github.com/aaravgoel2209/aaravgoel2209" target="_blank" rel="noopener noreferrer">
-    <img src="https://skillicons.dev/icons?i=pytorch,fastapi,matlab,opencv,py,r,sklearn,tensorflow&perline=4" />
-  </a>
-</p>
+### Machine Learning
+- **NumPy**, **Pandas**, **Matplotlib**
+- Currently learning **Scikit-learn**, **TensorFlow**, and **Deep Learning**
 
-<h2></h2>
+### Robotics
+- **VEX V5**, **PROS**, **PID Control**, **Odometry**
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-</p>
+### Tools
+- **Git**, **GitHub**, **Zed**, **MySQL**
 
-<h2></h2>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/WakaTime-Stats-blue?style=for-the-badge&logo=wakatime&logoColor=white" />
-</p>
+## Coding Activity
 
 <!--START_SECTION:waka-->
 

@@ -18,7 +18,7 @@
 
 ##
 
-I'm a **14-year-old student** passionate about **Machine Learning, Artificial Intelligence, and Robotics**. Always learning, building, and open to collaborating on interesting projects—feel free to reach out!
+I'm a **14 year old student** passionate about **Machine Learning, Artificial Intelligence, and Robotics**. Always learning, building, and open to collaborating on interesting projects, feel free to reach out!
 
 ## Tech Stack
 

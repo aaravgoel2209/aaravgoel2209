@@ -38,15 +38,15 @@ I'm a **14 year old student** passionate about **Machine Learning, Artificial In
 <!--START_SECTION:waka-->
 
 ```txt
-From: 31 January 2026 - To: 17 July 2026
+From: 31 January 2026 - To: 18 July 2026
 
-Total Time: 70 hrs 57 mins
+Total Time: 73 hrs 15 mins
 
-C++                21 hrs 43 mins        ██████▓░░░░░░░░░░░░░░░░░░   27.04 %
-HTML               17 hrs 14 mins        █████▒░░░░░░░░░░░░░░░░░░░   21.45 %
-Other              9 hrs 23 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.69 %
-Python             9 hrs 20 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.62 %
-JavaScript         6 hrs 15 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.78 %
+C++                21 hrs 49 mins        ██████▓░░░░░░░░░░░░░░░░░░   26.40 %
+HTML               17 hrs 14 mins        █████▒░░░░░░░░░░░░░░░░░░░   20.85 %
+Other              9 hrs 23 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.36 %
+Python             9 hrs 20 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.29 %
+JavaScript         6 hrs 15 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.57 %
 ```
 
 <!--END_SECTION:waka-->

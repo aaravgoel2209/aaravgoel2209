@@ -19,28 +19,28 @@ I'm a **14 year old student** passionate about **Machine Learning, Artificial In
 ## Tech Stack
 
 ### Programming
-Languages: Python, C++, Java, SQL, HTML, CSS
+- **Languages**: Python, C++, Java, SQL, HTML, CSS
 
 ### AI & Machine Learning
-Frameworks: TensorFlow, Scikit-learn
-Data Science: NumPy, Pandas, Matplotlib, Jupyter
+- **Frameworks**: TensorFlow, Scikit-learn
+- **Data Science**: NumPy, Pandas, Matplotlib, Jupyter
 
 ### Software Development
-Web Scraping: Beautiful Soup, Requests, Selenium
-Computer Vision: OpenCV
+- **Computer Vision**: OpenCV
+- **Web Scraping**: Beautiful Soup, Requests, Selenium
 
 ### Robotics
-Platform: VEX V5
-Framework: VEXCode, PROS
-Algorithms: PID Control, Odometry
+- **Platform**: VEX V5
+- **Framework**: VEXCode, PROS
+- **Algorithms**: PID Control, Odometry
 
 ### Databases
-Database: MySQL
+- **Database**: MySQL
 
 ### Development Tools
-Version Control: Git, GitHub
-Editor: Zed
-Operating System: Linux
+- **Version Control**: Git, GitHub
+- **Editor**: Zed
+- **Operating System**: Linux
 
 ## Coding Activity
 

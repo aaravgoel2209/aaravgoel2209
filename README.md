@@ -19,7 +19,7 @@ I'm a **14 year old student** developer specializing in **Machine Learning and S
 ## Tech Stack
 
 ### Programming
-- **Languages**: Python, C++, Java, SQL, HTML, CSS
+- **Languages**: Python, C++, SQL, HTML, CSS
 
 ### AI & Machine Learning
 - **Frameworks**: TensorFlow, Scikit-learn

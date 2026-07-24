@@ -47,15 +47,15 @@ I'm a **14 year old student** developer specializing in **Machine Learning and S
 <!--START_SECTION:waka-->
 
 ```txt
-From: 31 January 2026 - To: 22 July 2026
+From: 31 January 2026 - To: 24 July 2026
 
-Total Time: 84 hrs 22 mins
+Total Time: 92 hrs 4 mins
 
-C++                28 hrs 36 mins        ███████░░░░░░░░░░░░░░░░░░   28.02 %
-Other              17 hrs 42 mins        ████▒░░░░░░░░░░░░░░░░░░░░   17.35 %
-HTML               17 hrs 22 mins        ████▒░░░░░░░░░░░░░░░░░░░░   17.02 %
-Python             9 hrs 20 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.14 %
-JavaScript         6 hrs 15 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.13 %
+C++                30 hrs 49 mins        ██████▓░░░░░░░░░░░░░░░░░░   27.25 %
+Other              21 hrs 2 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.60 %
+HTML               17 hrs 27 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.44 %
+Python             9 hrs 53 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.75 %
+JavaScript         6 hrs 34 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.81 %
 ```
 
 <!--END_SECTION:waka-->

@@ -10,7 +10,8 @@
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC614?style=for-the-badge&logo=linux&logoColor=black)
 
 ##
 
@@ -19,7 +20,7 @@ I'm a **14 year old student** developer specializing in **Machine Learning and S
 ## Tech Stack
 
 ### Programming
-- **Languages**: Python, C++, Java, SQL, HTML, CSS, JS
+- **Languages**: Python, C++, Java, SQL, HTML, CSS
 
 ### AI & Machine Learning
 - **Frameworks**: TensorFlow, Scikit-learn
@@ -36,11 +37,6 @@ I'm a **14 year old student** developer specializing in **Machine Learning and S
 
 ### Databases
 - **Database**: MySQL
-
-### Development Tools
-- **Version Control**: Git, GitHub
-- **Editor**: Zed
-- **Operating System**: Linux
 
 ## Coding Activity
 

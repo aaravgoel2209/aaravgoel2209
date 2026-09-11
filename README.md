@@ -43,7 +43,7 @@ I'm a **14 year old student** developer specializing in **Machine Learning and S
 <!--START_SECTION:waka-->
 
 ```txt
-From: 31 January 2026 - To: 09 September 2026
+From: 31 January 2026 - To: 11 September 2026
 
 Total Time: 134 hrs 36 mins
 
